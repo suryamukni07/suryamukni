@@ -59,10 +59,6 @@ Selalu up-to-date dengan segala perubahan dan tren tekonologi.
 # Hi there, I'm PROFILE WEB (https://suryamukni07.github.io/suryaprofile/) 👋
 **Social Media & Blog:** 
 
-- <a target="_blank" href="https://www.linkedin.com/in/surya-febrianto-mukni-983b36145/"><img align="left" alt="Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" /></a> [[https://www.linkedin.com/in/agusnurwanto/](https://www.linkedin.com/in/surya-febrianto-mukni-983b36145/)](https://www.linkedin.com/in/surya-febrianto-mukni-983b36145/)
-
-
-
-
+- <a target="_blank" href="https://www.linkedin.com/in/surya-febrianto-mukni-983b36145/"><img align="left" alt="Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" /></a> https://www.linkedin.com/in/suryamukni/
 
 
