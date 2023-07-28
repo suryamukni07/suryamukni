@@ -12,13 +12,15 @@
 #### 1. [Universitas Putra Indonesia "YPTK" Padang](https://upiyptk.ac.id) | information Systems | padang `2012-2016`
    - Asistant Laboratorium of computer
   
- #### 2. [SMK N 2 PARIAMAN(https://www.smkn2prm.sch.id/) | MULTIMEDIA | PARIAMAN `2009-2012`
-   - Chief of Rohkris
+ #### 2. [SMK N 2 PARIAMAN](https://www.smkn2prm.sch.id/) | MULTIMEDIA | PARIAMAN `2009-2012`
+   - MAGANG TVRI RIAU KEPRI
+   - CAMERAMAN DALAM ACARA LIVE
+   - EDITOR FILM
 
 ## Work Experience:
+#### 1. [COVER PRODACITON](https://bpkd.padangpariamankab.go.id/) | SYSTEM ADMINISTRATOR | PADANGPARIAMAN KAB `JANUARI'2009 - 2009`
+   - DESIGN GRAFIS PERCETAKAN
 #### 1. [BADAN PENGELOLA KEUANGAN DAERAH](https://bpkd.padangpariamankab.go.id/) | SYSTEM ADMINISTRATOR | PADANGPARIAMAN KAB `JANUARI'2019 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
    - Create Automation using Python and VBA Excel for day-to-day routine
    - Mengidentifikasi dan memenuhi kebutuhan perusahaan seputar sistem komputer.
    - Memantau dan mempertahankan kinerja jaringan agar tetap optimal.
