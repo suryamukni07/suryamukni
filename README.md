@@ -6,6 +6,8 @@
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: suryamukni7@gmai.com
+- [![](https://img.shields.io/badge/@suryamukni07-black?logo=github&style=flat-square)](https://https://suryamukni07.github.io/suryaprofile/)
+
 
 ## Education:
 
