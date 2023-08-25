@@ -9,15 +9,6 @@
 - [![](https://img.shields.io/badge/@suryamukni07-black?logo=github&style=flat-square)](https://https://suryamukni07.github.io/suryaprofile/)
 
 
-## Education:
-
-#### 1. [Universitas Putra Indonesia "YPTK" Padang](https://upiyptk.ac.id) | information Systems | padang `2012-2016`
-   - Asistant Laboratorium of computer
-  
- #### 2. [SMK N 2 PARIAMAN](https://www.smkn2prm.sch.id/) | MULTIMEDIA | PARIAMAN `2009-2012`
-   - MAGANG TVRI RIAU KEPRI
-   - CAMERAMAN DALAM ACARA LIVE
-   - EDITOR FILM
 
 ## Work Experience:
 #### 1. [COVER PRODACITON](https://bpkd.padangpariamankab.go.id/) | SYSTEM ADMINISTRATOR | PADANGPARIAMAN KAB `JANUARI'2009 - 2009`
